@@ -1,1 +1,2 @@
-# pisa-kommentar
+# Analyser til kommentarkapittel
+Her er mine analysefiler til kommentarkapitlet jeg skriver i den kommende antologien fra PISA 2022. Analysene er gjort i Emacs, og jeg legger ved org-mode filene med forklarende tekst, R-kodene og output integrert for å dokumentere kodeprosessene. Bibtex-fil fra søket i ERIC er vedlagt, men jeg har dessverre ikke anledning til å legge ved tekstfilene fra antologikapitlene her. 
